@@ -2,7 +2,7 @@ import { useState, useMemo, useEffect } from "react"
 import { convert, getUnits, categories } from "./units"
 import { FaArrowLeft } from "react-icons/fa"
 import { IoSunnyOutline  } from "react-icons/io5";
-import { IoMoonOutline } from "react-icons/io5";
+import { FiMoon } from "react-icons/fi";
 
 import "./App.css"
 
@@ -63,7 +63,7 @@ function App() {
       <header>
         <h1>Unit Converter</h1>
         <button className="theme-toggle" onClick={() => setDarkMode(!darkMode)} aria-label="Toggle dark mode">
-          {darkMode ? <IoSunnyOutline  /> : <IoMoonOutline />}
+          {darkMode ? <IoSunnyOutline  /> : <FiMoon />}
         </button>
       </header>
 
