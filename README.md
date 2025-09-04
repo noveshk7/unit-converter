@@ -1,8 +1,72 @@
-# React + Vite
+# Unit Converter
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A lightweight and efficient **Unit Converter** built with **React + Vite**. This application allows users to quickly convert between different measurement units (such as length, weight, temperature, and more) in a simple and intuitive interface.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+
+* 🔄 **Multiple Unit Categories** – convert between length, weight, temperature, and more
+* ⚡ **Instant Conversion** – results update in real-time
+* 🎨 **Clean & Responsive UI** – optimized for both desktop and mobile devices
+* 🛠️ **Customizable Logic** – conversion handled through a dedicated `units.js` utility
+* 🚀 **Fast Performance** – powered by React + Vite
+
+---
+
+## 🛠️ Tech Stack
+
+* **React** – frontend library
+* **Vite** – development server and build tool
+* **JavaScript (ES6+)** – conversion logic and interactivity
+* **CSS** – styling and layout
+
+---
+
+## ⚙️ Installation & Usage
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/noveshk7/unit-converter.git
+cd unit-converter
+```
+
+### 2. Install dependencies
+
+```bash
+npm install
+```
+
+### 3. Start development server
+
+```bash
+npm run dev
+```
+
+Open **[http://localhost:5173](http://localhost:5173)** in your browser.
+
+### 4. Build for production
+
+```bash
+npm run build
+```
+
+### 5. Preview production build
+
+```bash
+npm run preview
+```
+
+---
+
+## 👨‍💻 Author
+
+- Developed by **Novesh Kumar Gautam**
+- GitHub: [noveshk7](https://github.com/noveshk7)
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
