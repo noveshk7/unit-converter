@@ -60,13 +60,34 @@ npm run preview
 
 ---
 
-## 👨‍💻 Author
+## 📖 Usage
+1. Open the app in your browser.
+2. Enter a value in one unit.
+3. View converted values in real time.
 
-- Developed by **Novesh Kumar Gautam**
+---
+
+## 🌟 Future Enhancements
+- 📐 More units (volume, speed, currency)
+- 🌓 Dark/Light mode
+- 💾 Save last used conversions
+- 🌐 Multi-language support
+
+---
+
+## 🤝 Contributing
+Contributions are welcome!
+- Fork the repo
+- Create a feature branch
+- Submit a pull request 🚀
+
+---
+
+## 👨‍💻 Author
+- Developed by **Novesh Kumar Gautam**  
 - GitHub: [noveshk7](https://github.com/noveshk7)
 
 ---
 
 ## 📄 License
-
 This project is licensed under the **MIT License**.
